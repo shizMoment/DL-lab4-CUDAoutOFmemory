@@ -12,7 +12,7 @@
 - **Public  (13-ое место)**: 0.97207
 
 ## Веса модели:
-https://disk.yandex.ru/d/
+https://disk.yandex.ru/d/rmYcpan4lsBhng
 
 ## Соревнование на kaggle:
 https://www.kaggle.com/competitions/dl-lab-4-ocr
